@@ -19,3 +19,24 @@ C:\Users\marlo\OneDrive\Escritorio\Semestre 9\Seminario de computacion\F electro
 C:\Users\marlo\OneDrive\Escritorio\Semestre 9\Seminario de computacion\F electronica\APISistemaVentas\SistemaVenta.BLL\bin\Debug\net7.0\SistemaVenta.Model.pdb
 C:\Users\marlo\OneDrive\Escritorio\Semestre 9\Seminario de computacion\F electronica\APISistemaVentas\SistemaVenta.BLL\bin\Debug\net7.0\SistemaVenta.Utility.pdb
 C:\Users\marlo\OneDrive\Escritorio\Semestre 9\Seminario de computacion\F electronica\APISistemaVentas\SistemaVenta.BLL\obj\Debug\net7.0\SistemaVenta.BLL.csproj.CopyComplete
+C:\Users\alvea\Source\Repos\Facturacion_E\APISistemaVentas\SistemaVenta.BLL\bin\Debug\net7.0\SistemaVenta.BLL.deps.json
+C:\Users\alvea\Source\Repos\Facturacion_E\APISistemaVentas\SistemaVenta.BLL\bin\Debug\net7.0\SistemaVenta.BLL.dll
+C:\Users\alvea\Source\Repos\Facturacion_E\APISistemaVentas\SistemaVenta.BLL\bin\Debug\net7.0\SistemaVenta.BLL.pdb
+C:\Users\alvea\Source\Repos\Facturacion_E\APISistemaVentas\SistemaVenta.BLL\bin\Debug\net7.0\SistemaVenta.DAL.dll
+C:\Users\alvea\Source\Repos\Facturacion_E\APISistemaVentas\SistemaVenta.BLL\bin\Debug\net7.0\SistemaVenta.DTO.dll
+C:\Users\alvea\Source\Repos\Facturacion_E\APISistemaVentas\SistemaVenta.BLL\bin\Debug\net7.0\SistemaVenta.Model.dll
+C:\Users\alvea\Source\Repos\Facturacion_E\APISistemaVentas\SistemaVenta.BLL\bin\Debug\net7.0\SistemaVenta.Utility.dll
+C:\Users\alvea\Source\Repos\Facturacion_E\APISistemaVentas\SistemaVenta.BLL\bin\Debug\net7.0\SistemaVenta.DAL.pdb
+C:\Users\alvea\Source\Repos\Facturacion_E\APISistemaVentas\SistemaVenta.BLL\bin\Debug\net7.0\SistemaVenta.DTO.pdb
+C:\Users\alvea\Source\Repos\Facturacion_E\APISistemaVentas\SistemaVenta.BLL\bin\Debug\net7.0\SistemaVenta.Model.pdb
+C:\Users\alvea\Source\Repos\Facturacion_E\APISistemaVentas\SistemaVenta.BLL\bin\Debug\net7.0\SistemaVenta.Utility.pdb
+C:\Users\alvea\Source\Repos\Facturacion_E\APISistemaVentas\SistemaVenta.BLL\obj\Debug\net7.0\SistemaVenta.BLL.csproj.AssemblyReference.cache
+C:\Users\alvea\Source\Repos\Facturacion_E\APISistemaVentas\SistemaVenta.BLL\obj\Debug\net7.0\SistemaVenta.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alvea\Source\Repos\Facturacion_E\APISistemaVentas\SistemaVenta.BLL\obj\Debug\net7.0\SistemaVenta.BLL.AssemblyInfoInputs.cache
+C:\Users\alvea\Source\Repos\Facturacion_E\APISistemaVentas\SistemaVenta.BLL\obj\Debug\net7.0\SistemaVenta.BLL.AssemblyInfo.cs
+C:\Users\alvea\Source\Repos\Facturacion_E\APISistemaVentas\SistemaVenta.BLL\obj\Debug\net7.0\SistemaVenta.BLL.csproj.CoreCompileInputs.cache
+C:\Users\alvea\Source\Repos\Facturacion_E\APISistemaVentas\SistemaVenta.BLL\obj\Debug\net7.0\SistemaVenta.BLL.csproj.CopyComplete
+C:\Users\alvea\Source\Repos\Facturacion_E\APISistemaVentas\SistemaVenta.BLL\obj\Debug\net7.0\SistemaVenta.BLL.dll
+C:\Users\alvea\Source\Repos\Facturacion_E\APISistemaVentas\SistemaVenta.BLL\obj\Debug\net7.0\refint\SistemaVenta.BLL.dll
+C:\Users\alvea\Source\Repos\Facturacion_E\APISistemaVentas\SistemaVenta.BLL\obj\Debug\net7.0\SistemaVenta.BLL.pdb
+C:\Users\alvea\Source\Repos\Facturacion_E\APISistemaVentas\SistemaVenta.BLL\obj\Debug\net7.0\ref\SistemaVenta.BLL.dll

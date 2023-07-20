@@ -4567,19 +4567,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\marlo\\.nuget\\packages\\": {}
+    "C:\\Users\\alvea\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\marlo\\OneDrive\\Escritorio\\Semestre 9\\Seminario de computacion\\F electronica\\APISistemaVentas\\SistemaVenta.IOC\\SistemaVenta.IOC.csproj",
+      "projectUniqueName": "C:\\Users\\alvea\\Source\\Repos\\Facturacion_E\\APISistemaVentas\\SistemaVenta.IOC\\SistemaVenta.IOC.csproj",
       "projectName": "SistemaVenta.IOC",
-      "projectPath": "C:\\Users\\marlo\\OneDrive\\Escritorio\\Semestre 9\\Seminario de computacion\\F electronica\\APISistemaVentas\\SistemaVenta.IOC\\SistemaVenta.IOC.csproj",
-      "packagesPath": "C:\\Users\\marlo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\marlo\\OneDrive\\Escritorio\\Semestre 9\\Seminario de computacion\\F electronica\\APISistemaVentas\\SistemaVenta.IOC\\obj\\",
+      "projectPath": "C:\\Users\\alvea\\Source\\Repos\\Facturacion_E\\APISistemaVentas\\SistemaVenta.IOC\\SistemaVenta.IOC.csproj",
+      "packagesPath": "C:\\Users\\alvea\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\alvea\\Source\\Repos\\Facturacion_E\\APISistemaVentas\\SistemaVenta.IOC\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\marlo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\alvea\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -4593,14 +4593,14 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "C:\\Users\\marlo\\OneDrive\\Escritorio\\Semestre 9\\Seminario de computacion\\F electronica\\APISistemaVentas\\SistemaVenta.BLL\\SistemaVenta.BLL.csproj": {
-              "projectPath": "C:\\Users\\marlo\\OneDrive\\Escritorio\\Semestre 9\\Seminario de computacion\\F electronica\\APISistemaVentas\\SistemaVenta.BLL\\SistemaVenta.BLL.csproj"
+            "C:\\Users\\alvea\\Source\\Repos\\Facturacion_E\\APISistemaVentas\\SistemaVenta.BLL\\SistemaVenta.BLL.csproj": {
+              "projectPath": "C:\\Users\\alvea\\Source\\Repos\\Facturacion_E\\APISistemaVentas\\SistemaVenta.BLL\\SistemaVenta.BLL.csproj"
             },
-            "C:\\Users\\marlo\\OneDrive\\Escritorio\\Semestre 9\\Seminario de computacion\\F electronica\\APISistemaVentas\\SistemaVenta.DAL\\SistemaVenta.DAL.csproj": {
-              "projectPath": "C:\\Users\\marlo\\OneDrive\\Escritorio\\Semestre 9\\Seminario de computacion\\F electronica\\APISistemaVentas\\SistemaVenta.DAL\\SistemaVenta.DAL.csproj"
+            "C:\\Users\\alvea\\Source\\Repos\\Facturacion_E\\APISistemaVentas\\SistemaVenta.DAL\\SistemaVenta.DAL.csproj": {
+              "projectPath": "C:\\Users\\alvea\\Source\\Repos\\Facturacion_E\\APISistemaVentas\\SistemaVenta.DAL\\SistemaVenta.DAL.csproj"
             },
-            "C:\\Users\\marlo\\OneDrive\\Escritorio\\Semestre 9\\Seminario de computacion\\F electronica\\APISistemaVentas\\SistemaVenta.Utility\\SistemaVenta.Utility.csproj": {
-              "projectPath": "C:\\Users\\marlo\\OneDrive\\Escritorio\\Semestre 9\\Seminario de computacion\\F electronica\\APISistemaVentas\\SistemaVenta.Utility\\SistemaVenta.Utility.csproj"
+            "C:\\Users\\alvea\\Source\\Repos\\Facturacion_E\\APISistemaVentas\\SistemaVenta.Utility\\SistemaVenta.Utility.csproj": {
+              "projectPath": "C:\\Users\\alvea\\Source\\Repos\\Facturacion_E\\APISistemaVentas\\SistemaVenta.Utility\\SistemaVenta.Utility.csproj"
             }
           }
         }

@@ -3461,19 +3461,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\marlo\\.nuget\\packages\\": {}
+    "C:\\Users\\alvea\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\marlo\\OneDrive\\Escritorio\\Semestre 9\\Seminario de computacion\\F electronica\\APISistemaVentas\\SistemaVenta.Model\\SistemaVenta.Model.csproj",
+      "projectUniqueName": "C:\\Users\\alvea\\Source\\Repos\\Facturacion_E\\APISistemaVentas\\SistemaVenta.Model\\SistemaVenta.Model.csproj",
       "projectName": "SistemaVenta.Model",
-      "projectPath": "C:\\Users\\marlo\\OneDrive\\Escritorio\\Semestre 9\\Seminario de computacion\\F electronica\\APISistemaVentas\\SistemaVenta.Model\\SistemaVenta.Model.csproj",
-      "packagesPath": "C:\\Users\\marlo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\marlo\\OneDrive\\Escritorio\\Semestre 9\\Seminario de computacion\\F electronica\\APISistemaVentas\\SistemaVenta.Model\\obj\\",
+      "projectPath": "C:\\Users\\alvea\\Source\\Repos\\Facturacion_E\\APISistemaVentas\\SistemaVenta.Model\\SistemaVenta.Model.csproj",
+      "packagesPath": "C:\\Users\\alvea\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\alvea\\Source\\Repos\\Facturacion_E\\APISistemaVentas\\SistemaVenta.Model\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\marlo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\alvea\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

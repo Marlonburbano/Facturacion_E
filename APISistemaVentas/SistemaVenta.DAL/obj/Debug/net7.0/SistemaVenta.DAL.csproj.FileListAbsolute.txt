@@ -13,3 +13,18 @@ C:\Users\marlo\OneDrive\Escritorio\Semestre 9\Seminario de computacion\F electro
 C:\Users\marlo\OneDrive\Escritorio\Semestre 9\Seminario de computacion\F electronica\APISistemaVentas\SistemaVenta.DAL\bin\Debug\net7.0\SistemaVenta.Model.dll
 C:\Users\marlo\OneDrive\Escritorio\Semestre 9\Seminario de computacion\F electronica\APISistemaVentas\SistemaVenta.DAL\bin\Debug\net7.0\SistemaVenta.Model.pdb
 C:\Users\marlo\OneDrive\Escritorio\Semestre 9\Seminario de computacion\F electronica\APISistemaVentas\SistemaVenta.DAL\obj\Debug\net7.0\SistemaVenta.DAL.csproj.CopyComplete
+C:\Users\alvea\Source\Repos\Facturacion_E\APISistemaVentas\SistemaVenta.DAL\bin\Debug\net7.0\SistemaVenta.DAL.deps.json
+C:\Users\alvea\Source\Repos\Facturacion_E\APISistemaVentas\SistemaVenta.DAL\bin\Debug\net7.0\SistemaVenta.DAL.dll
+C:\Users\alvea\Source\Repos\Facturacion_E\APISistemaVentas\SistemaVenta.DAL\bin\Debug\net7.0\SistemaVenta.DAL.pdb
+C:\Users\alvea\Source\Repos\Facturacion_E\APISistemaVentas\SistemaVenta.DAL\bin\Debug\net7.0\SistemaVenta.Model.dll
+C:\Users\alvea\Source\Repos\Facturacion_E\APISistemaVentas\SistemaVenta.DAL\bin\Debug\net7.0\SistemaVenta.Model.pdb
+C:\Users\alvea\Source\Repos\Facturacion_E\APISistemaVentas\SistemaVenta.DAL\obj\Debug\net7.0\SistemaVenta.DAL.csproj.AssemblyReference.cache
+C:\Users\alvea\Source\Repos\Facturacion_E\APISistemaVentas\SistemaVenta.DAL\obj\Debug\net7.0\SistemaVenta.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alvea\Source\Repos\Facturacion_E\APISistemaVentas\SistemaVenta.DAL\obj\Debug\net7.0\SistemaVenta.DAL.AssemblyInfoInputs.cache
+C:\Users\alvea\Source\Repos\Facturacion_E\APISistemaVentas\SistemaVenta.DAL\obj\Debug\net7.0\SistemaVenta.DAL.AssemblyInfo.cs
+C:\Users\alvea\Source\Repos\Facturacion_E\APISistemaVentas\SistemaVenta.DAL\obj\Debug\net7.0\SistemaVenta.DAL.csproj.CoreCompileInputs.cache
+C:\Users\alvea\Source\Repos\Facturacion_E\APISistemaVentas\SistemaVenta.DAL\obj\Debug\net7.0\SistemaVenta.DAL.csproj.CopyComplete
+C:\Users\alvea\Source\Repos\Facturacion_E\APISistemaVentas\SistemaVenta.DAL\obj\Debug\net7.0\SistemaVenta.DAL.dll
+C:\Users\alvea\Source\Repos\Facturacion_E\APISistemaVentas\SistemaVenta.DAL\obj\Debug\net7.0\refint\SistemaVenta.DAL.dll
+C:\Users\alvea\Source\Repos\Facturacion_E\APISistemaVentas\SistemaVenta.DAL\obj\Debug\net7.0\SistemaVenta.DAL.pdb
+C:\Users\alvea\Source\Repos\Facturacion_E\APISistemaVentas\SistemaVenta.DAL\obj\Debug\net7.0\ref\SistemaVenta.DAL.dll
