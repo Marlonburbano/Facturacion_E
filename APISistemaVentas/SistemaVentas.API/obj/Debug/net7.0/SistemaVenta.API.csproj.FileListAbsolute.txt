@@ -253,3 +253,5 @@ C:\Taller\APISistemaVentas\SistemaVentas.API\obj\Debug\net7.0\refint\SistemaVent
 C:\Taller\APISistemaVentas\SistemaVentas.API\obj\Debug\net7.0\SistemaVenta.API.pdb
 C:\Taller\APISistemaVentas\SistemaVentas.API\obj\Debug\net7.0\SistemaVenta.API.genruntimeconfig.cache
 C:\Taller\APISistemaVentas\SistemaVentas.API\obj\Debug\net7.0\ref\SistemaVenta.API.dll
+C:\Taller\APISistemaVentas\SistemaVentas.API\bin\Debug\net7.0\AutoMapper.dll
+C:\Taller\APISistemaVentas\SistemaVentas.API\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
