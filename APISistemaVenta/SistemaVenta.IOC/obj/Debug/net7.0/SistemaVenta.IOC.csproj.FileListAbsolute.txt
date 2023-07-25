@@ -1,0 +1,92 @@
+C:\Users\marlo\OneDrive\Escritorio\Semestre 9\Seminario de computacion\F electronica\APISistemaVentas\SistemaVenta.IOC\bin\Debug\net7.0\SistemaVenta.IOC.deps.json
+C:\Users\marlo\OneDrive\Escritorio\Semestre 9\Seminario de computacion\F electronica\APISistemaVentas\SistemaVenta.IOC\bin\Debug\net7.0\SistemaVenta.IOC.dll
+C:\Users\marlo\OneDrive\Escritorio\Semestre 9\Seminario de computacion\F electronica\APISistemaVentas\SistemaVenta.IOC\bin\Debug\net7.0\SistemaVenta.IOC.pdb
+C:\Users\marlo\OneDrive\Escritorio\Semestre 9\Seminario de computacion\F electronica\APISistemaVentas\SistemaVenta.IOC\obj\Debug\net7.0\SistemaVenta.IOC.csproj.AssemblyReference.cache
+C:\Users\marlo\OneDrive\Escritorio\Semestre 9\Seminario de computacion\F electronica\APISistemaVentas\SistemaVenta.IOC\obj\Debug\net7.0\SistemaVenta.IOC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marlo\OneDrive\Escritorio\Semestre 9\Seminario de computacion\F electronica\APISistemaVentas\SistemaVenta.IOC\obj\Debug\net7.0\SistemaVenta.IOC.AssemblyInfoInputs.cache
+C:\Users\marlo\OneDrive\Escritorio\Semestre 9\Seminario de computacion\F electronica\APISistemaVentas\SistemaVenta.IOC\obj\Debug\net7.0\SistemaVenta.IOC.AssemblyInfo.cs
+C:\Users\marlo\OneDrive\Escritorio\Semestre 9\Seminario de computacion\F electronica\APISistemaVentas\SistemaVenta.IOC\obj\Debug\net7.0\SistemaVenta.IOC.csproj.CoreCompileInputs.cache
+C:\Users\marlo\OneDrive\Escritorio\Semestre 9\Seminario de computacion\F electronica\APISistemaVentas\SistemaVenta.IOC\obj\Debug\net7.0\SistemaVenta.IOC.dll
+C:\Users\marlo\OneDrive\Escritorio\Semestre 9\Seminario de computacion\F electronica\APISistemaVentas\SistemaVenta.IOC\obj\Debug\net7.0\refint\SistemaVenta.IOC.dll
+C:\Users\marlo\OneDrive\Escritorio\Semestre 9\Seminario de computacion\F electronica\APISistemaVentas\SistemaVenta.IOC\obj\Debug\net7.0\SistemaVenta.IOC.pdb
+C:\Users\marlo\OneDrive\Escritorio\Semestre 9\Seminario de computacion\F electronica\APISistemaVentas\SistemaVenta.IOC\obj\Debug\net7.0\ref\SistemaVenta.IOC.dll
+C:\Users\marlo\OneDrive\Escritorio\Semestre 9\Seminario de computacion\F electronica\APISistemaVentas\SistemaVenta.IOC\bin\Debug\net7.0\SistemaVenta.BLL.dll
+C:\Users\marlo\OneDrive\Escritorio\Semestre 9\Seminario de computacion\F electronica\APISistemaVentas\SistemaVenta.IOC\bin\Debug\net7.0\SistemaVenta.DAL.dll
+C:\Users\marlo\OneDrive\Escritorio\Semestre 9\Seminario de computacion\F electronica\APISistemaVentas\SistemaVenta.IOC\bin\Debug\net7.0\SistemaVenta.DTO.dll
+C:\Users\marlo\OneDrive\Escritorio\Semestre 9\Seminario de computacion\F electronica\APISistemaVentas\SistemaVenta.IOC\bin\Debug\net7.0\SistemaVenta.Model.dll
+C:\Users\marlo\OneDrive\Escritorio\Semestre 9\Seminario de computacion\F electronica\APISistemaVentas\SistemaVenta.IOC\bin\Debug\net7.0\SistemaVenta.Utility.dll
+C:\Users\marlo\OneDrive\Escritorio\Semestre 9\Seminario de computacion\F electronica\APISistemaVentas\SistemaVenta.IOC\bin\Debug\net7.0\SistemaVenta.BLL.pdb
+C:\Users\marlo\OneDrive\Escritorio\Semestre 9\Seminario de computacion\F electronica\APISistemaVentas\SistemaVenta.IOC\bin\Debug\net7.0\SistemaVenta.DAL.pdb
+C:\Users\marlo\OneDrive\Escritorio\Semestre 9\Seminario de computacion\F electronica\APISistemaVentas\SistemaVenta.IOC\bin\Debug\net7.0\SistemaVenta.Utility.pdb
+C:\Users\marlo\OneDrive\Escritorio\Semestre 9\Seminario de computacion\F electronica\APISistemaVentas\SistemaVenta.IOC\bin\Debug\net7.0\SistemaVenta.DTO.pdb
+C:\Users\marlo\OneDrive\Escritorio\Semestre 9\Seminario de computacion\F electronica\APISistemaVentas\SistemaVenta.IOC\bin\Debug\net7.0\SistemaVenta.Model.pdb
+C:\Users\marlo\OneDrive\Escritorio\Semestre 9\Seminario de computacion\F electronica\APISistemaVentas\SistemaVenta.IOC\obj\Debug\net7.0\SistemaVenta.IOC.csproj.CopyComplete
+C:\Users\alvea\Source\Repos\Facturacion_E\APISistemaVentas\SistemaVenta.IOC\bin\Debug\net7.0\SistemaVenta.IOC.deps.json
+C:\Users\alvea\Source\Repos\Facturacion_E\APISistemaVentas\SistemaVenta.IOC\bin\Debug\net7.0\SistemaVenta.IOC.dll
+C:\Users\alvea\Source\Repos\Facturacion_E\APISistemaVentas\SistemaVenta.IOC\bin\Debug\net7.0\SistemaVenta.IOC.pdb
+C:\Users\alvea\Source\Repos\Facturacion_E\APISistemaVentas\SistemaVenta.IOC\bin\Debug\net7.0\SistemaVenta.BLL.dll
+C:\Users\alvea\Source\Repos\Facturacion_E\APISistemaVentas\SistemaVenta.IOC\bin\Debug\net7.0\SistemaVenta.DAL.dll
+C:\Users\alvea\Source\Repos\Facturacion_E\APISistemaVentas\SistemaVenta.IOC\bin\Debug\net7.0\SistemaVenta.DTO.dll
+C:\Users\alvea\Source\Repos\Facturacion_E\APISistemaVentas\SistemaVenta.IOC\bin\Debug\net7.0\SistemaVenta.Model.dll
+C:\Users\alvea\Source\Repos\Facturacion_E\APISistemaVentas\SistemaVenta.IOC\bin\Debug\net7.0\SistemaVenta.Utility.dll
+C:\Users\alvea\Source\Repos\Facturacion_E\APISistemaVentas\SistemaVenta.IOC\bin\Debug\net7.0\SistemaVenta.BLL.pdb
+C:\Users\alvea\Source\Repos\Facturacion_E\APISistemaVentas\SistemaVenta.IOC\bin\Debug\net7.0\SistemaVenta.DAL.pdb
+C:\Users\alvea\Source\Repos\Facturacion_E\APISistemaVentas\SistemaVenta.IOC\bin\Debug\net7.0\SistemaVenta.Utility.pdb
+C:\Users\alvea\Source\Repos\Facturacion_E\APISistemaVentas\SistemaVenta.IOC\bin\Debug\net7.0\SistemaVenta.DTO.pdb
+C:\Users\alvea\Source\Repos\Facturacion_E\APISistemaVentas\SistemaVenta.IOC\bin\Debug\net7.0\SistemaVenta.Model.pdb
+C:\Users\alvea\Source\Repos\Facturacion_E\APISistemaVentas\SistemaVenta.IOC\obj\Debug\net7.0\SistemaVenta.IOC.csproj.AssemblyReference.cache
+C:\Users\alvea\Source\Repos\Facturacion_E\APISistemaVentas\SistemaVenta.IOC\obj\Debug\net7.0\SistemaVenta.IOC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alvea\Source\Repos\Facturacion_E\APISistemaVentas\SistemaVenta.IOC\obj\Debug\net7.0\SistemaVenta.IOC.AssemblyInfoInputs.cache
+C:\Users\alvea\Source\Repos\Facturacion_E\APISistemaVentas\SistemaVenta.IOC\obj\Debug\net7.0\SistemaVenta.IOC.AssemblyInfo.cs
+C:\Users\alvea\Source\Repos\Facturacion_E\APISistemaVentas\SistemaVenta.IOC\obj\Debug\net7.0\SistemaVenta.IOC.csproj.CoreCompileInputs.cache
+C:\Users\alvea\Source\Repos\Facturacion_E\APISistemaVentas\SistemaVenta.IOC\obj\Debug\net7.0\SistemaVenta.IOC.csproj.CopyComplete
+C:\Users\alvea\Source\Repos\Facturacion_E\APISistemaVentas\SistemaVenta.IOC\obj\Debug\net7.0\SistemaVenta.IOC.dll
+C:\Users\alvea\Source\Repos\Facturacion_E\APISistemaVentas\SistemaVenta.IOC\obj\Debug\net7.0\refint\SistemaVenta.IOC.dll
+C:\Users\alvea\Source\Repos\Facturacion_E\APISistemaVentas\SistemaVenta.IOC\obj\Debug\net7.0\SistemaVenta.IOC.pdb
+C:\Users\alvea\Source\Repos\Facturacion_E\APISistemaVentas\SistemaVenta.IOC\obj\Debug\net7.0\ref\SistemaVenta.IOC.dll
+C:\Taller\APISistemaVentas\SistemaVenta.IOC\bin\Debug\net7.0\SistemaVenta.IOC.deps.json
+C:\Taller\APISistemaVentas\SistemaVenta.IOC\bin\Debug\net7.0\SistemaVenta.IOC.dll
+C:\Taller\APISistemaVentas\SistemaVenta.IOC\bin\Debug\net7.0\SistemaVenta.IOC.pdb
+C:\Taller\APISistemaVentas\SistemaVenta.IOC\bin\Debug\net7.0\SistemaVenta.BLL.dll
+C:\Taller\APISistemaVentas\SistemaVenta.IOC\bin\Debug\net7.0\SistemaVenta.DAL.dll
+C:\Taller\APISistemaVentas\SistemaVenta.IOC\bin\Debug\net7.0\SistemaVenta.DTO.dll
+C:\Taller\APISistemaVentas\SistemaVenta.IOC\bin\Debug\net7.0\SistemaVenta.Model.dll
+C:\Taller\APISistemaVentas\SistemaVenta.IOC\bin\Debug\net7.0\SistemaVenta.Utility.dll
+C:\Taller\APISistemaVentas\SistemaVenta.IOC\bin\Debug\net7.0\SistemaVenta.BLL.pdb
+C:\Taller\APISistemaVentas\SistemaVenta.IOC\bin\Debug\net7.0\SistemaVenta.DAL.pdb
+C:\Taller\APISistemaVentas\SistemaVenta.IOC\bin\Debug\net7.0\SistemaVenta.Utility.pdb
+C:\Taller\APISistemaVentas\SistemaVenta.IOC\bin\Debug\net7.0\SistemaVenta.DTO.pdb
+C:\Taller\APISistemaVentas\SistemaVenta.IOC\bin\Debug\net7.0\SistemaVenta.Model.pdb
+C:\Taller\APISistemaVentas\SistemaVenta.IOC\obj\Debug\net7.0\SistemaVenta.IOC.csproj.AssemblyReference.cache
+C:\Taller\APISistemaVentas\SistemaVenta.IOC\obj\Debug\net7.0\SistemaVenta.IOC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Taller\APISistemaVentas\SistemaVenta.IOC\obj\Debug\net7.0\SistemaVenta.IOC.AssemblyInfoInputs.cache
+C:\Taller\APISistemaVentas\SistemaVenta.IOC\obj\Debug\net7.0\SistemaVenta.IOC.AssemblyInfo.cs
+C:\Taller\APISistemaVentas\SistemaVenta.IOC\obj\Debug\net7.0\SistemaVenta.IOC.csproj.CoreCompileInputs.cache
+C:\Taller\APISistemaVentas\SistemaVenta.IOC\obj\Debug\net7.0\SistemaVenta.IOC.csproj.CopyComplete
+C:\Taller\APISistemaVentas\SistemaVenta.IOC\obj\Debug\net7.0\SistemaVenta.IOC.dll
+C:\Taller\APISistemaVentas\SistemaVenta.IOC\obj\Debug\net7.0\refint\SistemaVenta.IOC.dll
+C:\Taller\APISistemaVentas\SistemaVenta.IOC\obj\Debug\net7.0\SistemaVenta.IOC.pdb
+C:\Taller\APISistemaVentas\SistemaVenta.IOC\obj\Debug\net7.0\ref\SistemaVenta.IOC.dll
+C:\Taller\APISistemaVenta\SistemaVenta.IOC\obj\Debug\net7.0\SistemaVenta.IOC.csproj.AssemblyReference.cache
+C:\Taller\APISistemaVenta\SistemaVenta.IOC\obj\Debug\net7.0\SistemaVenta.IOC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Taller\APISistemaVenta\SistemaVenta.IOC\obj\Debug\net7.0\SistemaVenta.IOC.AssemblyInfoInputs.cache
+C:\Taller\APISistemaVenta\SistemaVenta.IOC\obj\Debug\net7.0\SistemaVenta.IOC.AssemblyInfo.cs
+C:\Taller\APISistemaVenta\SistemaVenta.IOC\obj\Debug\net7.0\SistemaVenta.IOC.csproj.CoreCompileInputs.cache
+C:\Taller\APISistemaVenta\SistemaVenta.IOC\bin\Debug\net7.0\SistemaVenta.IOC.deps.json
+C:\Taller\APISistemaVenta\SistemaVenta.IOC\bin\Debug\net7.0\SistemaVenta.IOC.dll
+C:\Taller\APISistemaVenta\SistemaVenta.IOC\bin\Debug\net7.0\SistemaVenta.IOC.pdb
+C:\Taller\APISistemaVenta\SistemaVenta.IOC\bin\Debug\net7.0\SistemaVenta.BLL.dll
+C:\Taller\APISistemaVenta\SistemaVenta.IOC\bin\Debug\net7.0\SistemaVenta.DAL.dll
+C:\Taller\APISistemaVenta\SistemaVenta.IOC\bin\Debug\net7.0\SistemaVenta.DTO.dll
+C:\Taller\APISistemaVenta\SistemaVenta.IOC\bin\Debug\net7.0\SistemaVenta.Model.dll
+C:\Taller\APISistemaVenta\SistemaVenta.IOC\bin\Debug\net7.0\SistemaVenta.Utility.dll
+C:\Taller\APISistemaVenta\SistemaVenta.IOC\bin\Debug\net7.0\SistemaVenta.BLL.pdb
+C:\Taller\APISistemaVenta\SistemaVenta.IOC\bin\Debug\net7.0\SistemaVenta.DAL.pdb
+C:\Taller\APISistemaVenta\SistemaVenta.IOC\bin\Debug\net7.0\SistemaVenta.Utility.pdb
+C:\Taller\APISistemaVenta\SistemaVenta.IOC\bin\Debug\net7.0\SistemaVenta.DTO.pdb
+C:\Taller\APISistemaVenta\SistemaVenta.IOC\bin\Debug\net7.0\SistemaVenta.Model.pdb
+C:\Taller\APISistemaVenta\SistemaVenta.IOC\obj\Debug\net7.0\SistemaVenta.IOC.csproj.CopyComplete
+C:\Taller\APISistemaVenta\SistemaVenta.IOC\obj\Debug\net7.0\SistemaVenta.IOC.dll
+C:\Taller\APISistemaVenta\SistemaVenta.IOC\obj\Debug\net7.0\refint\SistemaVenta.IOC.dll
+C:\Taller\APISistemaVenta\SistemaVenta.IOC\obj\Debug\net7.0\SistemaVenta.IOC.pdb
+C:\Taller\APISistemaVenta\SistemaVenta.IOC\obj\Debug\net7.0\ref\SistemaVenta.IOC.dll

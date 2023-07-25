@@ -2,7 +2,9 @@
   "ExpandedNodes": [
     "",
     "\\APISistemaVentas",
-    "\\APISistemaVentas\\SistemaVenta.DTO"
+    "\\APISistemaVentas\\SistemaVenta.DTO",
+    "\\APISistemaVentas\\SistemaVenta.IOC"
   ],
+  "SelectedNode": "\\APISistemaVentas\\SistemaVenta.IOC\\Dependencia.cs",
   "PreviewInSolutionExplorer": false
 }
