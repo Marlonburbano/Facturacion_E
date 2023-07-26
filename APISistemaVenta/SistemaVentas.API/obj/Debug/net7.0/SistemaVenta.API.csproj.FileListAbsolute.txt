@@ -430,3 +430,4 @@ C:\Users\alvea\Source\Repos\Facturacion_E\APISistemaVenta\SistemaVentas.API\obj\
 C:\Users\alvea\Source\Repos\Facturacion_E\APISistemaVenta\SistemaVentas.API\obj\Debug\net7.0\SistemaVenta.API.pdb
 C:\Users\alvea\Source\Repos\Facturacion_E\APISistemaVenta\SistemaVentas.API\obj\Debug\net7.0\SistemaVenta.API.genruntimeconfig.cache
 C:\Users\alvea\Source\Repos\Facturacion_E\APISistemaVenta\SistemaVentas.API\obj\Debug\net7.0\ref\SistemaVenta.API.dll
+C:\Taller\APISistemaVenta\SistemaVentas.API\obj\Debug\net7.0\SistemaVenta.API.MvcApplicationPartsAssemblyInfo.cs

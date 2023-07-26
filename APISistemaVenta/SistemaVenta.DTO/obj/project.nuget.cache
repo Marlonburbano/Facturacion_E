@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ivLxNr73a/zUhBq1k8wOEgBaAfnfVIjICcnAqASxFr/6kTzJxsn77WpGZtJg0bwkO9iF+UQ0Jzcf/dc0YwoQIA==",
+  "dgSpecHash": "M6gG/fYyUSmNOKNCO0/SGDsoVTM+5STmx60bCFa3svxBQ7h3KHRxppI7nknlHlRnChQIOC+tTsn4KJbVW0RMAw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\alvea\\Source\\Repos\\Facturacion_E\\APISistemaVenta\\SistemaVenta.DTO\\SistemaVenta.DTO.csproj",
+  "projectFilePath": "C:\\Taller\\APISistemaVenta\\SistemaVenta.DTO\\SistemaVenta.DTO.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
