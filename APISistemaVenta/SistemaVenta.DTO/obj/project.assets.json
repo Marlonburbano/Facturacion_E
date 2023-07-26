@@ -8,19 +8,19 @@
     "net7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\marlo\\.nuget\\packages\\": {}
+    "C:\\Users\\alvea\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Taller\\APISistemaVenta\\SistemaVenta.DTO\\SistemaVenta.DTO.csproj",
+      "projectUniqueName": "C:\\Users\\alvea\\Source\\Repos\\Facturacion_E\\APISistemaVenta\\SistemaVenta.DTO\\SistemaVenta.DTO.csproj",
       "projectName": "SistemaVenta.DTO",
-      "projectPath": "C:\\Taller\\APISistemaVenta\\SistemaVenta.DTO\\SistemaVenta.DTO.csproj",
-      "packagesPath": "C:\\Users\\marlo\\.nuget\\packages\\",
-      "outputPath": "C:\\Taller\\APISistemaVenta\\SistemaVenta.DTO\\obj\\",
+      "projectPath": "C:\\Users\\alvea\\Source\\Repos\\Facturacion_E\\APISistemaVenta\\SistemaVenta.DTO\\SistemaVenta.DTO.csproj",
+      "packagesPath": "C:\\Users\\alvea\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\alvea\\Source\\Repos\\Facturacion_E\\APISistemaVenta\\SistemaVenta.DTO\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\marlo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\alvea\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

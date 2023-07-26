@@ -3274,19 +3274,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\marlo\\.nuget\\packages\\": {}
+    "C:\\Users\\alvea\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Taller\\APISistemaVenta\\SistemaVenta.Utility\\SistemaVenta.Utility.csproj",
+      "projectUniqueName": "C:\\Users\\alvea\\Source\\Repos\\Facturacion_E\\APISistemaVenta\\SistemaVenta.Utility\\SistemaVenta.Utility.csproj",
       "projectName": "SistemaVenta.Utility",
-      "projectPath": "C:\\Taller\\APISistemaVenta\\SistemaVenta.Utility\\SistemaVenta.Utility.csproj",
-      "packagesPath": "C:\\Users\\marlo\\.nuget\\packages\\",
-      "outputPath": "C:\\Taller\\APISistemaVenta\\SistemaVenta.Utility\\obj\\",
+      "projectPath": "C:\\Users\\alvea\\Source\\Repos\\Facturacion_E\\APISistemaVenta\\SistemaVenta.Utility\\SistemaVenta.Utility.csproj",
+      "packagesPath": "C:\\Users\\alvea\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\alvea\\Source\\Repos\\Facturacion_E\\APISistemaVenta\\SistemaVenta.Utility\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\marlo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\alvea\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -3300,11 +3300,11 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "C:\\Taller\\APISistemaVenta\\SistemaVenta.DTO\\SistemaVenta.DTO.csproj": {
-              "projectPath": "C:\\Taller\\APISistemaVenta\\SistemaVenta.DTO\\SistemaVenta.DTO.csproj"
+            "C:\\Users\\alvea\\Source\\Repos\\Facturacion_E\\APISistemaVenta\\SistemaVenta.DTO\\SistemaVenta.DTO.csproj": {
+              "projectPath": "C:\\Users\\alvea\\Source\\Repos\\Facturacion_E\\APISistemaVenta\\SistemaVenta.DTO\\SistemaVenta.DTO.csproj"
             },
-            "C:\\Taller\\APISistemaVenta\\SistemaVenta.Model\\SistemaVenta.Model.csproj": {
-              "projectPath": "C:\\Taller\\APISistemaVenta\\SistemaVenta.Model\\SistemaVenta.Model.csproj"
+            "C:\\Users\\alvea\\Source\\Repos\\Facturacion_E\\APISistemaVenta\\SistemaVenta.Model\\SistemaVenta.Model.csproj": {
+              "projectPath": "C:\\Users\\alvea\\Source\\Repos\\Facturacion_E\\APISistemaVenta\\SistemaVenta.Model\\SistemaVenta.Model.csproj"
             }
           }
         }
