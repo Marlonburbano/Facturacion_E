@@ -1,0 +1,36 @@
+<div class="wrapper">
+    <div  class="title">Inicio de Sesión</div>
+    <form action="#" [formGroup]="formularioLogin" (ngSubmit)="iniciarSesion()">
+    
+        <mat-form-field class="field" appearance="outline">
+            <mat-label>Correo</mat-label>
+            <input formControlName="email" matInput autocomplete="off">
+            <mat-icon matSuffix>mail</mat-icon>
+        </mat-form-field>
+
+     
+     
+        <mat-form-field class="field" appearance="outline">
+            <mat-label>Contraseña</mat-label>
+            <input [type]="ocultarPassword?'password':'text'"
+             formControlName="possword" matInput autocomplete="off">
+            <button mat-icon-button matSuffix
+            (click)="ocultarPassword= !ocultarPassword" type="button"> 
+            <mat-icon matSuffix>{{ocultarPassword ? 'visibility_off': 'visibility'}}</mat-icon>
+            </button>
+        </mat-form-field> 
+     
+     <div class="field">
+        <button class="field" type="submit">        
+            <mat-icon matSuffix>login</mat-icon>Iniciar Sesion
+        </button>
+     </div>
+    </form>
+
+    <mat-card-footer>
+        <mat-progress-bar mode="indeterminate" *ngIf="mostrarLoading">
+
+        </mat-progress-bar>
+    </mat-card-footer>
+
+</div>
