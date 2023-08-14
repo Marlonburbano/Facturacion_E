@@ -1,4 +1,4 @@
-<mat-toolbar color="primary">
+<mat-toolbar id="menubar">
     <mat-toolbar-row>
         <h1>Sistema de facturacion </h1>
         <button mat-icon-button (click)="sidenav.toggle();">
@@ -13,12 +13,12 @@
       <mat-nav-list>
 
         <mat-list-item routerLink="/pages/dashboard">
-            <mat-icon mast-list-icon>dashboard</mat-icon>
-            <div mat-line>dashboard  </div>
+            <mat-icon matListItemIcon>dashboard</mat-icon>
+            <div mat-line>dashboard</div>
         </mat-list-item>
 
         <mat-list-item routerLink="/pages/usuarios">
-            <mat-icon mast-list-icon>group</mat-icon>
+            <mat-icon matListItemIcon>group</mat-icon>
             <div mat-line>Usuarios</div>
         </mat-list-item>
 

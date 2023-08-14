@@ -9,11 +9,11 @@ import { HistorialVentaComponent } from './Pages/historial-venta/historial-venta
 import { ReporteComponent } from './Pages/reporte/reporte.component';
 
 const routes: Routes = [{
-  path:'',
+  path: '',
   component:LayoutComponent,
   children:[
     {path:'dashboard',component:DashBoardComponent},
-    {path:'usuarios',component:UsuarioComponent},
+    {path:'usuarios', component:UsuarioComponent},
     {path:'productos',component:ProductoComponent},
     {path:'venta',component:VentaComponent},
     {path:'historial_venta',component:HistorialVentaComponent},
@@ -27,3 +27,4 @@ const routes: Routes = [{
   exports: [RouterModule]
 })
 export class LayoutRoutingModule { }
+  

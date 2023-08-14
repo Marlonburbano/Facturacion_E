@@ -1,3 +1,7 @@
+body{
+    background: rgb(33,59,103);
+    background: linear-gradient(90deg, rgba(33,59,103,1) 0%, rgba(205,205,226,1) 24%, rgba(205,205,226,1) 25%, rgba(196,231,238,1) 100%);
+}
 .wrapper{
     max-width: 328px !important;
     margin: 2em auto;
@@ -35,4 +39,20 @@
     margin-top: 20px;
     position: relative;
 }
-
+#titulo1{
+    margin-top: 20%;
+    color: #c1e8e2; 
+    font-size: 320%;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    
+}
+#titulo2{
+    margin-top: 20%;
+    color: #050443; 
+    font-size: 320%;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+#titulo{
+    margin-top: 2%;
+    margin-left: 2%;
+}
