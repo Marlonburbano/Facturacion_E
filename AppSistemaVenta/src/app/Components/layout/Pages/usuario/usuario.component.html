@@ -1,9 +1,9 @@
-<h1 style="margin: 20px 0px 0px 40px">Usuarios</h1>
+<h1 style="margin: 20px 0px 0px 40px ">Usuarios</h1>
 
 <mat-card style="margin: 20px 40px 40px 40px">
     <mat-card-title>
         <br>
-        <button mat-raised-button color="primary" (click)="nuevoUsuario()">
+        <button mat-raised-button color="primary" id="usu" (click)="nuevoUsuario()">
             <mat-icon mat-list-icon>add</mat-icon>Nuevo Usuario
         </button>
     </mat-card-title>
@@ -59,7 +59,7 @@
                 <tr mat-row *matRowDef="let row; columns : columnasTabla;"></tr>
 
                 <tr class="mat-row" *matNoDataRow>
-                    <td class="mat-cell" colspan="4">No hay datos que coincidan con el filtro "{{input.value}}"</td>
+                    <td class="mat-cell" colspan="4">No existen datos que coincidan con el filtro "{{input.value}}"</td>
                 </tr>
 
             </table>

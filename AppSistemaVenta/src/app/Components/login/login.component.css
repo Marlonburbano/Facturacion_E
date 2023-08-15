@@ -37,7 +37,7 @@ body{
     height: 50px;
     width: 100%;
     margin-top: 20px;
-    position: relative;
+   
 }
 #titulo1{
     margin-top: 20%;
@@ -53,6 +53,6 @@ body{
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 #titulo{
-    margin-top: 2%;
+    margin-top: -20%;
     margin-left: 2%;
 }

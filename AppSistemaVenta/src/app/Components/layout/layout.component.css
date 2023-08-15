@@ -1,3 +1,23 @@
 #menubar{
     background-color:#509ec8;
 }
+a{
+    font-size: 23px;
+}
+#salir{
+    background-color: #4758b8;
+}
+
+#titulo1{
+    margin-top: 1%;
+    color: #c1e8e2; 
+    font-size: 200%;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    
+}
+#titulo2{
+    margin-top: 1%;
+    color: #050443; 
+    font-size: 200%;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}

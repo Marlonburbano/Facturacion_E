@@ -19,8 +19,8 @@ export class UtilidadService {
     })
   }
 
-  guardarSesionUsuario(usuarioSession:Sesion){
-    localStorage.setItem("usuario",JSON.stringify(usuarioSession));
+  guardarSesionUsuario(usuarioSesion:Sesion){
+    localStorage.setItem("usuario",JSON.stringify(usuarioSesion));
   }
 
   obtenerSesionUsuario(){

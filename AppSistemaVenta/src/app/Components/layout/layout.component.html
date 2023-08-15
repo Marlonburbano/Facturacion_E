@@ -1,57 +1,87 @@
+
 <mat-toolbar id="menubar">
     <mat-toolbar-row>
-        <h1>Sistema de facturacion </h1>
-        <button mat-icon-button (click)="sidenav.toggle();">
-            <mat-icon>menu</mat-icon>
-
-        </button>
+        <label id="titulo1" for="">Remates</label>
+        <label id="titulo2" for="">Moreno</label>
+        
     </mat-toolbar-row>   
 </mat-toolbar>
 
+<!-- Navbar -->
+<nav class="navbar navbar-expand-lg navbar-light bg-white">
+    <!-- Container wrapper -->
+    <div class="container-fluid">
+      <!-- Toggle button -->
+      <button
+        class="navbar-toggler"
+        type="button"
+        data-mdb-toggle="collapse"
+        data-mdb-target="#navbarSupportedContent"
+        aria-controls="navbarSupportedContent"
+        aria-expanded="false"
+        aria-label="Toggle navigation"
+      >
+        <i class="fas fa-bars"></i>
+      </button>
+  
+      <!-- Collapsible wrapper -->
+      <div class="collapse navbar-collapse" id="navbarSupportedContent">
+        <!-- Navbar brand -->
+        <a class="navbar-brand mt-2 mt-lg-0" href="#">
+          <img
+            src="https://mdbcdn.b-cdn.net/img/logo/mdb-transaprent-noshadows.webp"
+            height="15"
+            alt="MDB Logo"
+            loading="lazy"
+          />
+        </a>
+        <!-- Left links -->
+        <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+          <li class="nav-item">
+            <a class="nav-link mx-2" routerLink="/pages/dashboard"> <mat-icon>dashboard</mat-icon>&nbsp; Estadisticas</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link mx-2" aria-current="page" routerLink="/pages/usuarios" > <mat-icon>group</mat-icon> &nbsp;Usuarios</a> 
+
+          </li>
+          <li class="nav-item">
+            <a class="nav-link mx-2" aria-current="page" routerLink="/pages/productos" > <mat-icon>collections_bookmark</mat-icon>&nbsp;Productos</a>
+
+          </li>
+
+          <li class="nav-item">
+          <a class="nav-link  mx-2" aria-current="page" routerLink="/pages/venta" > <mat-icon>currency_exchange</mat-icon>&nbsp;Venta</a>
+
+          </li>
+
+          <li class="nav-item">
+            <a class="nav-link  mx-2" aria-current="page" routerLink="/pages/historial_venta" > <mat-icon>edit_note</mat-icon>&nbsp;Historial de venta</a>
+  
+            </li>
+
+            <li class="nav-item">
+                <a class="nav-link " aria-current="page" routerLink="/pages/reportes" > <mat-icon>receipt</mat-icon>&nbsp;Reportes</a>
+
+      
+                </li>
+        </ul>
+        <!-- Left links -->
+      </div>
+      <button type="button" class="btn btn-primary me-3" id="salir" >
+        Salir
+      </button>
+      <!-- Right elements -->
+    </div>
+    <!-- Container wrapper -->
+  </nav>
+  <!-- Navbar -->
+
 <mat-sidenav-container>
-    <mat-sidenav #sidenav opened="true" mode="side" style="width: 200px;">
-      <mat-nav-list>
-
-        <mat-list-item routerLink="/pages/dashboard">
-            <mat-icon matListItemIcon>dashboard</mat-icon>
-            <div mat-line>dashboard</div>
-        </mat-list-item>
-
-        <mat-list-item routerLink="/pages/usuarios">
-            <mat-icon matListItemIcon>group</mat-icon>
-            <div mat-line>Usuarios</div>
-        </mat-list-item>
-
-        <mat-list-item routerLink="/pages/productos">
-            <mat-icon matListItemIcon>collections_bookmark</mat-icon>
-            <div matLine>Productos</div>
-        </mat-list-item>
-
-        <mat-list-item routerLink="/pages/venta">
-            <mat-icon matListItemIcon>currency_exchange</mat-icon>
-            <div matLine>Venta</div>
-        </mat-list-item>
-
-        <mat-list-item routerLink="/pages/historial_venta">
-            <mat-icon matListItemIcon>edit_note</mat-icon>
-            <div matLine>Historial Ventas</div>
-        </mat-list-item>
-
-        <mat-list-item routerLink="/pages/reportes">
-            <mat-icon matListItemIcon>receipt</mat-icon>
-            <div matLine>Reportes</div>
-        </mat-list-item>
-    
-
-       
-
-
-      </mat-nav-list>  
-    </mat-sidenav>
-
 <mat-sidenav-content>
 <div style="height:90vh;"> 
- <router-outlet> </router-outlet>
+ <router-outlet> 
+    
+ </router-outlet>
 </div>
 </mat-sidenav-content>
 

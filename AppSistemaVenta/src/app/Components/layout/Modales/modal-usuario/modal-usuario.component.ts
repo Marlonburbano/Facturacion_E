@@ -76,8 +76,9 @@ export class ModalUsuarioComponent implements OnInit {
       rolDescripcion: "",
       clave: this.formularioUsuario.value.clave,
       esActivo:parseInt( this.formularioUsuario.value.esActivo)
-
+      
     }
+
 
     if(this.datosUsuario == null){
       this._usuarioServicio.guardar(_usuario).subscribe({
