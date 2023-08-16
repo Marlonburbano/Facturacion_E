@@ -7,9 +7,18 @@ table{
 }
 #usu{
     margin-left: 20px;
+    background-color: #509ec8;
 }
 
 h1{
     background-color: #509ec8;
     text-align: center;
+}
+
+#eli{
+    color: #509ec8;
+}
+
+#elim{
+    color: #ff0000;
 }

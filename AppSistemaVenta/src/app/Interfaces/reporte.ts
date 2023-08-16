@@ -3,7 +3,7 @@ export interface Reporte {
  tipoPago:string,
  fechaRegistro:string,
  totalVenta:string,
- Producto:string,
+ producto:string,
  cantidad:string,
  precio:string,
  total:string   

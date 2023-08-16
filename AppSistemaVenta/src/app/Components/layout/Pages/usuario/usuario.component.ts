@@ -77,10 +77,10 @@ export class UsuarioComponent implements OnInit, AfterViewInit{
       title:'¿Desea eliminar el usuario?',
       text: usuario.nombreCompleto,
       icon:"warning",
-      confirmButtonColor:'#3085d6',
+      confirmButtonColor:'#509ec8',
       confirmButtonText:"si, eliminar",
       showCancelButton:true,
-      cancelButtonColor:'#d33',
+      cancelButtonColor:'#ff0000',
       cancelButtonText: "No, volver"
     }).then((resultado) => {
       if(resultado.isConfirmed){

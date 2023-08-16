@@ -32,7 +32,7 @@
                     <mat-datepicker #picker2></mat-datepicker>
                 </mat-form-field>
 
-                <button mat-raised-button color="primary" [disabled]="formularioBusqueda.invalid" type="submit" 
+                <button mat-raised-button id="buscar" [disabled]="formularioBusqueda.invalid" type="submit" 
                 class="boton-buscar">
                     <mat-icon >search</mat-icon> Buscar
                 </button>
@@ -76,7 +76,7 @@
                     <th mat-header-cell *matHeaderCellDef style="width: 80px;">  </th>
                     <td mat-cell *matCellDef="let element"> 
 
-                        <button mat-icon-button color="primary" (click)="verDetalleVenta(element)" 
+                        <button mat-icon-button id="ver" (click)="verDetalleVenta(element)" 
                         matTooltip="ver Detalle">
                             <mat-icon >visibility</mat-icon>
                         </button>

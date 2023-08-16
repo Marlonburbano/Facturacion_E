@@ -20,3 +20,20 @@ mat-form-field{
 .table{
     width: 100%;
 }
+
+#buscar{
+    margin-left: 500px;
+    background-color: #509ec8;
+}
+
+#ver{
+    color: #509ec8;
+}
+
+h1{
+    background-color: #509ec8;
+    text-align: center;
+}
+#exportar{
+    background-color: rgb(31, 183, 31);
+}

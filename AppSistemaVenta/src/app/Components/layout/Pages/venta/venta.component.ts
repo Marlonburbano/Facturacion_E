@@ -135,10 +135,10 @@ export class VentaComponent implements OnInit {
             Swal.fire({
               icon:'success',
               title:'Venta Registrada!',
-              text:`Numero de venta: ${response.value.numeroDocumento}`
+              text:`Venta No: ${response.value.numeroDocumento} registrada con exito` 
             })
           }else
-          this._utilidadServicio.mostrarAlerta("No se pudo registrar la venta", "Opps!!");
+          this._utilidadServicio.mostrarAlerta("Ocurrio un error al registrar la venta", "Opps!");
         },
         complete:()=>{
           this.bloquearBotonRegistrar = false;
