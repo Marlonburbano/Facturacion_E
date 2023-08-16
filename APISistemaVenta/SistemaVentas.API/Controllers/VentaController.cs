@@ -4,6 +4,7 @@ using Microsoft.AspNetCore.Mvc;
 using SistemaVenta.BLL.Servicios.Contrato;
 using SistemaVenta.DTO;
 using SistemaVenta.API.Utilidad;
+using System.Globalization;
 
 namespace SistemaVenta.API.Controllers
 {
@@ -40,7 +41,7 @@ namespace SistemaVenta.API.Controllers
 
         [HttpGet]
         [Route("Historial")]
-        public async Task<IActionResult> Historial(string buscarPor, string? numeroVenta, string? fechaInicio, string? fechaFin)
+        public async Task<IActionResult> Historial(string buscarPor,string?numeroVenta,string?fechaInicio,string?fechaFin)
         {
             var rsp = new Response<List<VentaDTO>>();
             numeroVenta = numeroVenta is null ? "" : numeroVenta;
@@ -49,7 +50,7 @@ namespace SistemaVenta.API.Controllers
             try
             {
                 rsp.status = true;
-                rsp.Value = await _ventaServicio.Historial(buscarPor,numeroVenta, fechaInicio, fechaFin);
+                rsp.Value = await _ventaServicio.Historial(buscarPor,numeroVenta,fechaInicio,fechaFin);
 
             }
             catch (Exception ex)
@@ -64,7 +65,7 @@ namespace SistemaVenta.API.Controllers
 
         [HttpGet]
         [Route("Reporte")]
-        public async Task<IActionResult> Reporte(string? fechaInicio, string? fechaFin)
+        public async Task<IActionResult> Reporte(string?fechaInicio,string?fechaFin)
         {
             var rsp = new Response<List<ReporteDTO>>();
           

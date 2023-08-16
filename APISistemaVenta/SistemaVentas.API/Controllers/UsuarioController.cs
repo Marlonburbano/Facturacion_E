@@ -34,6 +34,7 @@ namespace SistemaVenta.API.Controllers
             }
             return Ok(rsp);
         }
+
         [HttpPost]
         [Route("IniciarSesion")]
         public async Task<IActionResult> IniciarSesion([FromBody]LoginDTO login)
@@ -81,7 +82,7 @@ namespace SistemaVenta.API.Controllers
             try
             {
                 rsp.status = true;
-                rsp.Value = await _usuarioServicio.Editar (usuario);
+                rsp.Value = await _usuarioServicio.Editar(usuario);
 
             }
             catch (Exception ex)
