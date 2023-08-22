@@ -1,1 +1,70 @@
-<p>dash-board works!</p>
+<h1 style="margin: 20px 0px 0px 40px">Estadisticas de la empresa</h1>
+
+<mat-card style="margin: 20px 40px 40px 40px">
+    <mat-card-content>
+
+        <mat-grid-list cols="3" rowHeight="100px"> 
+
+            <mat-grid-tile>
+                <mat-card class="card-infor">
+                    <mat-card-header>
+                        <div mat-card-avatar>
+                            <mat-icon color="accent">payments</mat-icon>
+                        </div>
+                        <mat-card-title>Total Ingresos</mat-card-title>
+                        <mat-card-subtitle>$ {{totalIngresos}}</mat-card-subtitle>
+                    </mat-card-header>
+                </mat-card>
+            </mat-grid-tile>
+
+            <mat-grid-tile>
+                <mat-card class="card-infor">
+                    <mat-card-header>
+                        <div mat-card-avatar>
+                            <mat-icon color="warn">sell</mat-icon>
+                        </div>
+                        <mat-card-title>Total Ventas</mat-card-title>
+                        <mat-card-subtitle>$ {{totalVentas}}</mat-card-subtitle>
+                    </mat-card-header>
+                </mat-card>
+            </mat-grid-tile>
+
+            <mat-grid-tile>
+                <mat-card class="card-infor">
+                    <mat-card-header>
+                        <div mat-card-avatar>
+                            <mat-icon color="primary">collections_bookmark</mat-icon>
+                        </div>
+                        <mat-card-title>Total Productos</mat-card-title>
+                        <mat-card-subtitle> {{totalProductos}}</mat-card-subtitle>
+                    </mat-card-header>
+                </mat-card>
+            </mat-grid-tile>
+
+        </mat-grid-list>
+
+        <div id="carouselExampleControls" class="carousel slide" data-bs-ride="carousel">
+            <div class="carousel-inner">
+              <div class="carousel-item active">
+                <img src="assets/img/4.jpg" class="d-block w-100" alt="Imagen 1">
+              </div>
+              <div class="carousel-item">
+                <img src="assets/img/5.jpg" class="d-block w-100" alt="...">
+              </div>
+              <div class="carousel-item">
+                <img src="assets/img/6.jpg" class="d-block w-100" alt="...">
+              </div>
+            </div>
+            <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleControls" data-bs-slide="prev">
+              <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+              <span class="visually-hidden">Previous</span>
+            </button>
+            <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleControls" data-bs-slide="next">
+              <span class="carousel-control-next-icon" aria-hidden="true"></span>
+              <span class="visually-hidden">Next</span>
+            </button>
+          </div>
+        
+
+    </mat-card-content>
+</mat-card>

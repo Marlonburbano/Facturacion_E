@@ -3,6 +3,9 @@
     <mat-toolbar-row>
         <label id="titulo1" for="">Remates</label>
         <label id="titulo2" for="">Moreno</label>
+
+        <span style="flex: 1 1 auto;"></span>
+        <label style="font-size: 14px; margin-right: 20px;">{{correoUsuario}} </label>
         
     </mat-toolbar-row>   
 </mat-toolbar>
@@ -64,11 +67,17 @@
 
       
                 </li>
+
+                <li class="nav-item">
+                  <a class="nav-link " aria-current="page" routerLink="/pages/integrantes" > <mat-icon>supervisor_account</mat-icon>&nbsp;Integrantes</a>
+  
+        
+                  </li>
         </ul>
         <!-- Left links -->
       </div>
-      <button mat-raised-button  id="pro" >
-        <mat-icon mat-list-icon>exit_to_app</mat-icon>Salir
+      <button mat-raised-button  (click)="cerrarSesion()" id="pro" >
+        <mat-icon mat-list-icon >exit_to_app</mat-icon>Salir
     </button>
       <!-- Right elements -->
     </div>

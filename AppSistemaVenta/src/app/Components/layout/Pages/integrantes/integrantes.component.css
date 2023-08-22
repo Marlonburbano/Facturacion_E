@@ -1,0 +1,28 @@
+.containerfondo{
+    background-image: url('src/assets/img/fondo1.jpg');
+    background-size: cover; /* Ajusta el tamaño de la imagen para cubrir todo el fondo */
+    background-repeat: no-repeat; /* Evita que la imagen se repita */
+    /* Otros estilos que desees aplicar al contenido */
+  }
+  .rol{
+    color: #1c76a7;
+    font-size: 17px;
+    font-weight: bold;
+  }
+  .nombre{
+    font-size: 16px;
+    font-weight: bold;
+  }
+  #titulo{
+    margin: 20px 0px 0px 40px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background-color: #509ec8;
+    text-align: center;
+    font-weight: bold;
+  }
+  .card-body{
+    background-color: #a3cee4;
+  }
+  #profe{
+    left: 240%;
+  }

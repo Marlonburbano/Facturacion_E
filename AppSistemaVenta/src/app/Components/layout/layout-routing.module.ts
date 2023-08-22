@@ -7,17 +7,33 @@ import { ProductoComponent } from './Pages/producto/producto.component';
 import { VentaComponent } from './Pages/venta/venta.component';
 import { HistorialVentaComponent } from './Pages/historial-venta/historial-venta.component';
 import { ReporteComponent } from './Pages/reporte/reporte.component';
+import { IntegrantesComponent } from './Pages/integrantes/integrantes.component';
 
 const routes: Routes = [{
   path: '',
   component:LayoutComponent,
   children:[
-    {path:'dashboard',component:DashBoardComponent},
-    {path:'usuarios', component:UsuarioComponent},
-    {path:'productos',component:ProductoComponent},
-    {path:'venta',component:VentaComponent},
-    {path:'historial_venta',component:HistorialVentaComponent},
-    {path:'reportes',component:ReporteComponent}
+    {
+      path:'dashboard',component:DashBoardComponent
+    },
+    {
+      path:'usuarios', component:UsuarioComponent
+    },
+    {
+      path:'productos',component:ProductoComponent
+    },
+    {
+      path:'venta',component:VentaComponent
+    },
+    {
+      path:'historial_venta',component:HistorialVentaComponent
+    },
+    {
+      path:'reportes',component:ReporteComponent
+    },
+    {
+      path:'integrantes',component:IntegrantesComponent
+    }
   ]
 
 }];
